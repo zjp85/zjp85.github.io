@@ -1,1 +1,1 @@
-simpleMusic&1.3&simpleMusic&https://github.com/zjp85/zjp85.github.io:80/Andorid/SimpleMusic/app-debug.apk
+simpleMusic&1.3&simpleMusic&https://zjp85.github.io:80/Andorid/SimpleMusic/app-debug.apk
